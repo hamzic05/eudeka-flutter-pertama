@@ -1,0 +1,4 @@
+#Fri Sep 06 08:55:05 ICT 2019
+base.0=G\:\\flutter-project\\eudeka-flutter\\eudeka\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
